@@ -39,8 +39,7 @@ VITE_API_URL=http://localhost:3000
 
 ## Features
 
-- Real-time health status monitoring
-- Auto-refresh every 5 seconds
+- Health status monitoring
 - Manual refresh button
 - Error handling with retry functionality
 - Responsive, modern UI built with Tailwind CSS

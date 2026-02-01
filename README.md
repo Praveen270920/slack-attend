@@ -82,8 +82,7 @@ npm run dev:frontend
 
 ## Frontend Features
 
-- Real-time health status monitoring
-- Auto-refresh every 5 seconds
+- Health status monitoring
 - Manual refresh button
 - Error handling with retry functionality
 - Beautiful, modern UI

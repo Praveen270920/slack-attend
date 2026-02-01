@@ -38,9 +38,6 @@ function HealthCheck() {
 
   useEffect(() => {
     fetchHealthStatus();
-    // Refresh every 5 seconds
-    const interval = setInterval(fetchHealthStatus, 5000);
-    return () => clearInterval(interval);
   }, []);
 
   const formatUptime = (seconds: number): string => {
